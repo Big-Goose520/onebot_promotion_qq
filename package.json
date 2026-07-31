@@ -1,0 +1,12 @@
+{
+  "name": "onebot-spammer",
+  "version": "1.0.0",
+  "description": "BIG-GOOSE开发 —— 一个CS机器人，宣传完我退出在进入宣传在退出机器人",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}

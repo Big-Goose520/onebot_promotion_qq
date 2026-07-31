@@ -1,0 +1,21 @@
+{
+  "ws": {
+    "mode": "reverse",
+    "host": "0.0.0.0",
+    "port": 3001,
+    "forward_url": "ws://127.0.0.1:3001",
+    "access_token": ""
+  },
+  "webui": {
+    "host": "0.0.0.0",
+    "port": 3000
+  },
+  "bot": {
+    "message": "大鹅NB",
+    "target_group_id": "627314790",
+    "interval_ms": 1000,
+    "min_times": 1,
+    "max_times": 5,
+    "leave_rejoin": true
+  }
+}
