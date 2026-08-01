@@ -13,8 +13,8 @@
 
 | 实现 | 支持情况 |
 |------|---------|
-| [NapCat](https://github.com/NapNeko/NapCatQQ) | 完全支持（含加群 API） |
-| [LLOneBot](https://github.com/LLOneBot/LLOneBot) | 完全支持（含加群 API） |
+| [NapCat](https://github.com/NapNeko/NapCatQQ) | 完全支持（无加群 API） |
+| [LLOneBot](https://github.com/LLOneBot/LLOneBot) | 完全支持（无加群 API） |
 | go-cqhttp | 支持（加群需手动邀请） |
 
 ## 快速开始
